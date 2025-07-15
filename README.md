@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/shiva96242487" target="blank"><img src="https://img.shields.io/twitter/follow/shiva96242487?logo=twitter&style=for-the-badge" alt="shiva96242487" /></a> </p>
 
-- 🔭 I’m currently working on [Coffee website](https://godamit.github.io/coffee_ecommerce/?#)
+- 🔭 I’m currently working on [Coffee website](https://godamit.github.io/My-Portfolio/?#)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Godamit](https://github.com/Godamit)
 
-- 💬 Ask me about **CSS JAVASCRIPT C C++ HTML PYTHON HTML5**
+- 💬 Ask me about **CSS JAVASCRIPT C C++ PHP RUST HTML PYTHON HTML5**
 
 - 📫 How to reach me **amit17062003@gmail.com**
 
