@@ -68,6 +68,4 @@ I enjoy building **real-world backend features** such as authentication systems,
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godamit&show_icons=true&locale=en" />
-</p>
+
